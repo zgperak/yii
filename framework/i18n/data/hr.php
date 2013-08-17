@@ -238,7 +238,7 @@ return array (
   array (
     'full' => 'EEEE, d. MMMM y.',
     'long' => 'd. MMMM y.',
-    'medium' => 'd. M. y.',
+    'medium' => 'd. MMM. y.',
     'short' => 'd.M.y.',
   ),
   'timeFormats' => 
